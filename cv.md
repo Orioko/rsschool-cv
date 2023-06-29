@@ -61,7 +61,9 @@
   - Developing a resume website for your pet projects using React
 - **Mini-game**
   - A mini-game in Python using the Pygame library
+  
 ## **Code Example**
+
 	-	import pygame
 	-   class Bullet(pygame.sprite.Sprite):
     -   def __init__(self, screen, gun):
@@ -81,7 +83,7 @@
     - def draw_bullet(self):
     -    """write bullet"""
     -   pygame.draw.rect(self.screen, self.color, self.rect)
-    - 
+
 ## Languages
 - Russian (native)
 - English (advanced)
