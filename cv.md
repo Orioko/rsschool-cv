@@ -30,7 +30,7 @@
 	- Increased the overall percentage of accepted and successfully processed requests
 	- Was promoted to supervisor for successful work
 	- Rallied the team and brought it to a new level of customer service support
-	- 
+	  
 - **Content Manager**
   - Delivery Club, 2015-2022
   - Incoming/Outgoing calls 
