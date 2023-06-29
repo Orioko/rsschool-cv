@@ -81,6 +81,7 @@
     -    """write bullet"""
     -   pygame.draw.rect(self.screen, self.color, self.rect)
 
+
 ## Languages
 - Russian (native)
 - English (advanced)
