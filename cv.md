@@ -49,6 +49,7 @@
 	- Trained a lot of employees for further work
 	- After helping the content department, I was transferred to it for further work
 
+
 ## Skills
 - Programming Languages: Python, JavaScript
 - Web Development: React, HTML, CSS, JavaScript
@@ -63,8 +64,8 @@
   - A mini-game in Python using the Pygame library
   
 ## **Code Example**
-	-	import pygame
-	-   class Bullet(pygame.sprite.Sprite):
+	- import pygame
+	- class Bullet(pygame.sprite.Sprite):
     -   def __init__(self, screen, gun):
     -   """create position bullet"""
     -   super(Bullet, self).__init__()
