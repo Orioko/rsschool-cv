@@ -47,6 +47,7 @@
 	- Trained a lot of employees for further work
 	- After helping the content department, I was transferred to it for further work
 
+
 ## Skills
 - Programming Languages: Python, JavaScript
 - Web Development: React, HTML, CSS, JavaScript
