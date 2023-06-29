@@ -74,14 +74,12 @@
      -   self.rect.centerx = gun.rect.centerx
      -  self.rect.top = gun.rect.top
      - self.y = float(self.rect.y)
-
-   - def update(self):
+     - def update(self):
      -   """bullet run up"""
      -   self.y -= self.speed
      -  self.rect.y = self.y
-
-   - def draw_bullet(self):
-   -    """write bullet"""
+    - def draw_bullet(self):
+    -    """write bullet"""
     -   pygame.draw.rect(self.screen, self.color, self.rect)
     - 
 ## Languages
