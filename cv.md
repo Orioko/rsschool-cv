@@ -63,7 +63,6 @@
   - A mini-game in Python using the Pygame library
   
 ## **Code Example**
-
 	-	import pygame
 	-   class Bullet(pygame.sprite.Sprite):
     -   def __init__(self, screen, gun):
