@@ -25,7 +25,6 @@
 	- Email
 	- Business correspondence
 	- Assistance to employees in difficult matters 
-
 	- Progress: 
 	- Increased the overall percentage of accepted and successfully processed requests
 	- Was promoted to supervisor for successful work
@@ -85,3 +84,4 @@
 ## Languages
 - Russian (native)
 - English (advanced)
+  
